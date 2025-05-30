@@ -2,13 +2,10 @@
 
 Unified Citizen Support Platform for managing finances, healthcare, government services, and documents in one place.
 
----
-
 ## Overview
 
 techHelp is a centralized digital service hub that empowers citizens to manage key aspects of their lives, such as financial tracking, medical appointments, government documentation, and secure file storage. Designed with both users and administrators in mind, it provides real-time interaction, accessibility, and data protection through advanced technologies.
 
----
 
 ## Features
 
